@@ -1,0 +1,11 @@
+According to my general knowledge of NICE NG136:
+
+Adults under 80 — clinic blood pressure target: below 140/90 mmHg.
+
+Adults aged 80 or over — clinic blood pressure target: below 150/90 mmHg.
+
+Adults under 80 — home or ambulatory blood pressure target: below 135/85 mmHg.
+
+Adults aged 80 or over — home or ambulatory blood pressure target: below 145/85 mmHg.
+
+I am reasonably confident, but not fully certain without checking the current NICE NG136 guideline text directly. These values may depend on the exact recommendation version, monitoring method, and individual clinical circumstances.

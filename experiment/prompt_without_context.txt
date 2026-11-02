@@ -1,0 +1,12 @@
+You are answering a guideline-specific question.
+
+According to NICE guideline NG136 on hypertension in adults:
+
+1. What clinic blood pressure target is recommended for adults under 80?
+2. What clinic blood pressure target is recommended for adults aged 80 or over?
+3. What home or ambulatory blood pressure target is recommended for adults under 80?
+4. What home or ambulatory target is recommended for adults aged 80 or over?
+
+Give the exact values and state whether you are certain.
+
+Do not use any external document pasted into this prompt.

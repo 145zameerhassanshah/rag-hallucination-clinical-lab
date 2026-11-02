@@ -1,0 +1,13 @@
+Not stated in the provided guideline context.
+
+The supplied context does not give a separate blood pressure target specifically for adults aged 65.
+
+What it does state is:
+
+“For adults with hypertension under age 80, the clinic blood-pressure target is below 140/90 mmHg.”
+
+and:
+
+“For treatment monitoring using home blood pressure monitoring or ambulatory blood pressure monitoring during usual waking hours, targets are below 135/85 mmHg for adults under 80…”
+
+So a 65-year-old falls within the broader under-80 category, but the context does not support claiming that recommendation 1.4.22 defines a special age-65 target.

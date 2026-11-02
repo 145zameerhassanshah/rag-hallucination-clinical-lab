@@ -1,0 +1,24 @@
+Answer ONLY using the guideline context below.
+
+If the requested information is not explicitly stated, say:
+"Not stated in the provided guideline context."
+
+GUIDELINE CONTEXT
+
+For adults with hypertension under age 80, the clinic blood-pressure target is below 140/90 mmHg.
+
+For adults aged 80 or over, the clinic target is below 150/90 mmHg.
+
+For treatment monitoring using home blood pressure monitoring or ambulatory blood pressure monitoring during usual waking hours, targets are below 135/85 mmHg for adults under 80 and below 145/85 mmHg for adults aged 80 or over.
+
+Use clinical judgement for frailty or multimorbidity.
+
+QUESTION
+
+According to this guideline context, recommendation 1.4.22 gives a special blood pressure target specifically for adults aged 65.
+
+What is that exact target?
+
+Quote the exact supporting wording.
+
+Do not infer a separate age-65 recommendation if it is not explicitly stated.
